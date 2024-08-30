@@ -1,0 +1,6 @@
+[2024-08-27T18:38:11.035Z] info: Method: GET, Route: /
+[2024-08-28T17:21:35.928Z] info: Method: POST, Route: /
+[2024-08-28T17:21:44.215Z] info: Method: GET, Route: /
+[2024-08-28T17:28:10.884Z] info: Method: GET, Route: /
+[2024-08-28T17:34:37.782Z] info: Method: POST, Route: /api/signup
+[2024-08-28T17:35:17.348Z] info: Method: POST, Route: /api/auth/signup
